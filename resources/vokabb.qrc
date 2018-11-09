@@ -1,0 +1,9 @@
+<RCC>
+    <qresource>
+        <file alias="vokabb.icon">vokabb.png</file>
+	<file>finish.png</file>
+	<file alias="twocol.icon">twocol.png</file>
+	<file alias="onecol.icon">onecol.png</file>
+	<file alias="spinmax.icon">spinmax.png</file>
+    </qresource>
+</RCC>
